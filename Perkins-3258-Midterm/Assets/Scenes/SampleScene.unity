@@ -39733,7 +39733,7 @@ GameObject:
   - component: {fileID: 723627196}
   - component: {fileID: 723627195}
   - component: {fileID: 723627194}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Prism (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46927,7 +46927,7 @@ GameObject:
   - component: {fileID: 1702196974}
   - component: {fileID: 1702196973}
   - component: {fileID: 1702196972}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Prism (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
