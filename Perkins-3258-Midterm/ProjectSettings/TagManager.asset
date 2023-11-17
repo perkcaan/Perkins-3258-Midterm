@@ -9,6 +9,7 @@ TagManager:
   - Trap Button
   - enemy
   - Ammo
+  - Capman
   layers:
   - Default
   - TransparentFX
